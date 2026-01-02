@@ -2,9 +2,9 @@
 
 # Running Windows on the Xiaomi Pad 6
 
-## Project Status
+UNSTABLE YET!!! Drivers coming soon, be patient
 
-Unstable
+## Stuff That Works
 
 - [X] Internal Storage
 - [X] Side Buttons
@@ -12,6 +12,26 @@ Unstable
 - [X] USB (Device Mode)
 - [X] CPU
 - [X] Display
+
+## Stuff That Doesn't Work
+
+- [ ] Touch
+- [ ] WLAN
+- [ ] Bluetooth
+- [ ] Accelerometer
+- [ ] Charging
+- [ ] Audio
+- [ ] GPU
+- [ ] Camera
+- [ ] Microphone
+- [ ] USB (Host Mode)
+- [ ] USB (Power Delivery)
+- [ ] Light
+- [ ] Accelerometer
+- [ ] Compass
+- [ ] Gyroscope
+- [ ] Hall
+- [ ] Temperature
 
 ## Other Stuff
 
