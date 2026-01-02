@@ -95,10 +95,11 @@
 
 
 ## Contributors
->6adp
->me
->Mu Silicium UEFI team, they really are awesome for making this project possible
->cmz6996 (XDA)
+>6adp, 
+>me, 
+>Mu Silicium UEFI team, they really are awesome for making this project possible, 
+>cmz6996 (XDA).
+
 
 
 
