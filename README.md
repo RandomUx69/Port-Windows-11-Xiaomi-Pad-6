@@ -1,6 +1,6 @@
-<img align="right" src="https://raw.githubusercontent.com/erdilS/Port-Windows-11-Xiaomi-Pad-5/main/nabu.png" width="425" alt="Windows 11 Running On A Xiaomi Pad 5">
+<img align="right" src="https://raw.githubusercontent.com/RandomUx69/Port-Windows-11-Xiaomi-Pad-6/refs/heads/main/Xiaomi-Pad-6.png" width="425" alt="Windows 11 Running On A Xiaomi Pad 5">
 
-# Running Windows on the Xiaomi Pad 5
+# Running Windows on the Xiaomi Pad 6
 
 [![Telegram](https://img.shields.io/badge/Chat-Telegram-brightgreen.svg?logo=telegram&style=flat-square)](https://t.me/nabuwoa)
 
@@ -9,17 +9,17 @@
 
 ## ⚠️ Warning
 > [!NOTE]
-> - We're not responsible for bricked devices, missing recovery partitions, dead xiaomi factoryline ~workers~ cowboys, dead pmics, dead ram, dead display ics, dead cpus, any xiaomi shenanigans, dead cats or dogs, nuclear wars or you getting fired because you forgot to boot back into android for the alarm.
-> - This project is in late stages of development, all the files here have been contributed by other users, here you will find a guide with the working files we managed to get. This is a delicate process, do it under your own risk and follow all the steps carefully.
+> - We're not responsible for bricked devices, missing recovery partitions, dead xiaomi factoryline ~workers~ cowboys, dead pmics, dead ram, dead display ics, dead cpus, any xiaomi shenanigans, dead cats or dogs, nuclear wars or you getting fired because you forgot to boot back into android for the alarm (use Windows Alarms app).
+> - This project is in late stages of development, and this has all credits going STRAIGHT to erdilS for making this awesome project, all the files here have been contributed by other users, here you will find a guide with the working files we managed to get. This is a delicate process, do it under your own risk and follow all the steps carefully.
 
 > [!WARNING]
 > **If you're not comfortable with modding your tablet or its partition table, or worried about bricking your device, it's okay to take a step back. But the process is simple, so even beginners can handle it. Just follow the instructions carefully, and you should be fine.**
 
 
 > [!CAUTION]
-> **❗For everyone not using latest drivers and UEFI you MUST update or reinstall Windows and use the [latest release](https://github.com/erdilS/Port-Windows-11-Xiaomi-Pad-5/releases/tag/Drivers) (v2501.27)❗**
+> **❗For everyone wanting WoA drivers, we are currently making them. Be patient, folks.❗**
 >
-> **Otherwise you have a constant risk of your UFS DYING AT ANY TIME NO MATTER WHAT!**
+> --GUIDES--
 >
 > [**Reinstall guide**](https://github.com/erdilS/Port-Windows-11-Xiaomi-Pad-5/blob/main/guide/English/reinstall-en.md)
 >
@@ -38,17 +38,17 @@
 
 
 > [!TIP]
-> **Want to see Mi Pad 5 WoA actively maintained and updated?**
+> **Want to see Xiaomi Pad 6 WoA actively maintained and updated?**
 >
-> **If anyone here is interested in keeping Mi Pad 5 WoA alive, there's a chance to make it happen:**  
-> A device could be sent to [@remtrik](https://github.com/remtrik) as a surprise — but someone would need to cover the cost.
+> **If anyone here is interested in keeping pipa WoA alive, there's a chance to make it happen:**  
+> A device could be sent to ME as a surprise — but someone would need to cover the cost.
 >
 > The sender doesn't own the device and has no reason to spend money on it personally, but is willing to coordinate the gift.
 >
 > ~**Estimated cost: $70–120**, depending on current listings when enough donations are collected.~
 >
 > What this would mean:
-> - More driver and UEFI updates
+> - Driver creation sped up :D
 > - Potential performance improvements
 > - Surprises
 >
@@ -95,35 +95,10 @@
 
 
 ## Contributors
-[<img alt="Icesito68" src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/113939920?v=4&w=45&fit=cover&mask=circle&maxage=7d" />](https://github.com/Icesito68)
-[<img alt="map220v" src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/14368485?v=4&w=45&fit=cover&mask=circle&maxage=7d" />](https://github.com/map220v)
-[<img alt="Renegade Project" src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/63859504?s=200&v=4&w=45&fit=cover&mask=circle&maxage=7d" />](https://github.com/edk2-porting)
-[<img alt="gus33000" src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/3755345?v=4&w=45&fit=cover&mask=circle&maxage=7d" />](https://github.com/gus33000)
-[<img alt="Renegade Project Discord Members" src="https://images.weserv.nl/?url=https://cdn.discordapp.com/icons/736563593058713690/68f67bfddf4390b11effc99917b16338.webp?size=256&w=45&fit=cover&mask=circle&maxage=7d" />](https://discord.gg/XXBWfag)
-[<img alt="MollySophia" src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/20746884?v=4&w=45&fit=cover&mask=circle&maxage=7d" />](https://github.com/MollySophia)
-[<img alt="serdeliuk" src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/38280618?v=4&w=45&fit=cover&mask=circle&maxage=7d" />](https://github.com/serdeliuk)
-[<img alt="bibarub" src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/73599925?v=4&w=45&fit=cover&mask=circle&maxage=7d" />](https://github.com/bibarub)
-[<img alt="entaromia" src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/30384045?v=4&w=45&fit=cover&mask=circle&maxage=7d" />](https://github.com/entaromia)
-[<img alt="ciyanogen" src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/29534488?v=4&w=45&fit=cover&mask=circle&maxage=7d" />](https://github.com/ciyanogen)
-[<img alt="ArturoGC06" src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/76574534?v=4&w=45&fit=cover&mask=circle&maxage=7d" />](https://github.com/ArturoGC06)
-[<img alt="Ilya114" src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/93242944?v=4&w=45&fit=cover&mask=circle&maxage=7d" />](https://github.com/Ilya114)
-[<img alt="Maxsenza151" src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/93602290?v=4&w=45&fit=cover&mask=circle&maxage=7d" />](https://github.com/Maxsenza151)
-[<img alt="HeavyMistick" src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/94836779?v=4&w=45&fit=cover&mask=circle&maxage=7d" />](https://github.com/HeavyMistick)
-[<img alt="Kmille36" src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/58414694?v=4&w=45&fit=cover&mask=circle&maxage=7d" />](https://github.com/Kmille36)
-[<img alt="RunningMango" src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/36758157?v=4&w=45&fit=cover&mask=circle&maxage=7d" />](https://github.com/RunningMango)
-[<img alt="halal-beef" src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/78730004?v=4&w=45&fit=cover&mask=circle&maxage=7d" />](https://github.com/halal-beef)
-[<img alt="Kennex666" src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/55269418?v=4&w=45&fit=cover&mask=circle&maxage=7d" />](https://github.com/kennex666)
-[<img alt="Misha803" src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/118528504?v=4&w=45&fit=cover&mask=circle&maxage=7d" />](https://github.com/Misha803)
-[<img alt="n00b69" src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/83274506?v=4&w=45&fit=cover&mask=circle&maxage=7d" />](https://github.com/n00b69)
-[<img alt="nick-san" src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/45539267?v=4&w=45&fit=cover&mask=circle&maxage=7d" />](https://github.com/nick-san)
-[<img alt="ciyanogen" src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/84897942?v=4&w=45&fit=cover&mask=circle&maxage=7d" />](https://github.com/ciyanogen)
-[<img alt="sr cn" src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/161332426?v=4&w=45&fit=cover&mask=circle&maxage=7d" />](https://github.com/srxcm)
-[<img alt="Mateus13000" src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/38146322?v=4&w=45&fit=cover&mask=circle&maxage=7d" />](https://github.com/Mateus13000)
-[<img alt="annson24" src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/8401837?v=4&w=45&fit=cover&mask=circle&maxage=7d" />](https://github.com/annson24)
-[<img alt="Ost268" src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/99175924?s=96&v=4&w=45&fit=cover&mask=circle&maxage=7d" />](https://github.com/galaxysollector)
-[<img alt="gvzd" src="https://i.ibb.co/VxsvNZ6/Ellipse-1.png" />](https://https://github.com/gvzd)
-[<img alt="chiyuki0325" src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/73830635?s=96&v=4&w=45&fit=cover&mask=circle&maxage=7d" />](https://github.com/chiyuki0325)
-[<img alt="Kumar-Jy" src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/20044626?v=4&w=45&fit=cover&mask=circle&maxage=7d" />](https://github.com/Kumar-Jy)
-[<img alt="ArKT-7" src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/157277855?v=4&w=45&fit=cover&mask=circle&maxage=7d" />](https://github.com/ArKT-7)
+>6adp
+>me
+>Mu Silicium UEFI team, they really are awesome for making this project possible
+>cmz6996 (XDA)
+
 
 
