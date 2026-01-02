@@ -24,7 +24,6 @@ UNSTABLE YET!!! Drivers coming soon, be patient
 - [X] USB (Device Mode)
 - [X] USB (Power Delivery)
 - [X] Windows Boot
-❔ Linux Boot
 
 # Stuff That Doesn't Work
 
@@ -50,6 +49,7 @@ UNSTABLE YET!!! Drivers coming soon, be patient
 
 ## UEFI
 - [ ] Mass Storage (Unknown Issues)
+- [ ] Linux Boot (UEFI made for Windows, obviously :|)
 
 # Other Stuff
 
