@@ -1,6 +1,6 @@
-<img align="right" src="https://raw.githubusercontent.com/erdilS/Port-Windows-11-Xiaomi-Pad-5/main/nabu.png" width="425" alt="Windows 11 Running On A Xiaomi Pad 5">
+<img align="right" src="https://raw.githubusercontent.com/RandomUx69/Port-Windows-11-Xiaomi-Pad-6/refs/heads/main/Xiaomi-Pad-6.png" width="425" alt="Windows 11 Running On A Xiaomi Pad 6">
 
-# Running Windows on the Xiaomi Pad 5
+# Running Windows on the Xiaomi Pad 6
 
 ## Installation
 
@@ -13,7 +13,7 @@
 
 - [```Android platform tools```](https://developer.android.com/studio/releases/platform-tools)
 
-- [```Modified recovery image```](https://github.com/ArKT-7/twrp_device_xiaomi_nabu/releases/tag/mod-win)
+- [```Modified recovery image```](https://github.com/RandomUx69/Port-Windows-11-Xiaomi-Pad-6/releases/download/TWRP/pipa_twrp-v1.img)
 
 ### Notes:
 > [!NOTE]
@@ -36,7 +36,7 @@ cd "path\to\platform-tools"
 > If your device is not detected in fastboot or recovery mode, you'll have to install USB drivers [using this guide](troubleshooting-en.md#device-is-not-recognized-in-fastboot-or-recovery)
 
 #### Reboot into fastboot mkde
-- Boot your NABU into **fastboot mode** by holding down the **`volume down`** button while rebooting with a USB cable connected
+- Boot your Pad 6 into **fastboot mode** by holding down the **`volume down`** button while rebooting with a USB cable connected
 - Alternatively, run the below command while booted in Android
 ```cmd
 adb reboot bootloader
@@ -175,6 +175,7 @@ adb shell partition $
 </details>
 
 ----
+
 
 
 
