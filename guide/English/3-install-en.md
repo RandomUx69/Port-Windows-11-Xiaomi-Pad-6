@@ -1,6 +1,6 @@
-<img align="right" src="https://raw.githubusercontent.com/erdilS/Port-Windows-11-Xiaomi-Pad-5/main/nabu.png" width="425" alt="Windows 11 Running On A Xiaomi Pad 5">
+<img align="right" src="https://raw.githubusercontent.com/RandomUx69/Port-Windows-11-Xiaomi-Pad-6/refs/heads/main/Xiaomi-Pad-6.png" width="425" alt="Windows 11 Running On A Xiaomi Pad 6">
 
-# Running Windows on the Xiaomi Pad 5
+# Running Windows on the Xiaomi Pad 6
 
 ## Installation
 
@@ -10,12 +10,10 @@
 - [```DriveLetterAssigner Tool```](https://github.com/Misha803/My-Scripts/releases/tag/DriveLetterAssigner)
   
 - [```ARM Windows ESD```](https://arkt-7.github.io/woawin/)
-    
-- [```Drivers```](https://github.com/erdilS/Port-Windows-11-Xiaomi-Pad-5/releases/tag/Drivers)
 
-- [```UEFI image```](https://github.com/erdilS/Port-Windows-11-Xiaomi-Pad-5/releases/tag/UEFI)
+- [```UEFI image```](https://github.com/RandomUx69/Port-Windows-11-Xiaomi-Pad-6/releases/tag/UEFI)
 
-### Boot back into the modded recovery
+### Boot back into TWRP
 > Replace `path\to\recovery.img` with the actual path of the recovery image
 ```cmd
 fastboot boot path\to\recovery.img
@@ -28,7 +26,7 @@ adb shell msc
 ```
 
 ### Assign letters to WINNABU and ESPNABU
-> Run the **DriveLetterAssigner** and click **`YES`** to automatically assign the letters **X** and **Y** to **WINNABU** and **ESPNABU**
+> Run the **DriveLetterAssigner** and click **`YES`** to automatically assign the letters **X** and **Y** to **WINPIPA** and **ESPPIPA**
 
 ### Installing Windows
 > [!Important]
@@ -46,12 +44,10 @@ dism /apply-image /ImageFile:path\to\install.esd /index:6 /ApplyDir:X:\
 > If you get `Error 87`, check the index of your image with `dism /get-imageinfo /ImageFile:path\to\install.esd`, then replace `index:6` with the actual index number of **Windows 11 Pro** in your image
 
 ### Copying your boot.img into Windows
-- Drag and drop the **rooted_boot.img** from the **platform-tools** folder into the **WINNABU** disk in Windows Explorer, then rename it to **boot.img**.
+- Drag and drop the **rooted_boot.img** from the **platform-tools** folder into the **WINPIPA** disk in Windows Explorer, then rename it to **boot.img**.
 
 ### Installing Drivers
-- Unpack the driver archive, then open the `OfflineUpdater.cmd` file (if an error shows up, run `OfflineUpdaterFix.cmd` instead)
-
-> If it asks you to enter a letter, enter the drive letter of **WINNABU** (which should be **X**), then press enter
+- Wait
 
 #### Create Windows bootloader files
 > If an error occurs when copying boot files, run **DriveLetterAssigner** again, then run the following command again, replacing **Y** with **U**
@@ -59,7 +55,7 @@ dism /apply-image /ImageFile:path\to\install.esd /index:6 /ApplyDir:X:\
 bcdboot X:\Windows /s Y: /f UEFI
 ```
 
-#### Remove the drive letter for ESPNABU
+#### Remove the drive letter for ESPPIPA
 > If this does not work, ignore it and skip to the next command. This phantom drive will disappear the next time you reboot your PC.
 ```cmd
 mountvol y: /d
