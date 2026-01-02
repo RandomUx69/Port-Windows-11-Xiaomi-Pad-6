@@ -3,7 +3,7 @@
 # Running Windows on the Xiaomi Pad 6
 
 ## Important notes/warnings
-> While the Xiaomi Pad 6 is currently one of the most UNSUPPORTED AND UNSTABLE Android devices to run Windows on, there are some rare issues that may severely affect your device. Make sure you understand these issues before installing Windows.
+> While the Xiaomi Pad 6 is currently one of the most UNSUPPORTED AND UNSTABLE Android devices to run Windows on, there are some common issues that may severely affect your device. Make sure you understand these issues before installing Windows.
 
 ## White line issues
 In some extremely rare cases, your screen may display white lines after putting it to sleep in Windows. This is a hardware issue caused by Xiaomi shipping out screens with incompatible display configurations.
