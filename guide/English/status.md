@@ -4,7 +4,9 @@
 
 UNSTABLE YET!!! Drivers coming soon, be patient
 
-## Stuff That Works
+# Stuff That Works
+
+## Windows
 
 - [X] Internal Storage
 - [X] Side Buttons
@@ -13,7 +15,20 @@ UNSTABLE YET!!! Drivers coming soon, be patient
 - [X] CPU
 - [X] Display
 
-## Stuff That Doesn't Work
+## UEFI
+
+- [X] Display
+- [X] Internal Storage
+- [X] Side Buttons
+- [X] USB (Host Mode)
+- [X] USB (Device Mode)
+- [X] USB (Power Delivery)
+- [X] Windows Boot
+- [X] Linux
+
+# Stuff That Doesn't Work
+
+## Windows
 
 - [ ] Touch
 - [ ] WLAN
@@ -33,6 +48,9 @@ UNSTABLE YET!!! Drivers coming soon, be patient
 - [ ] Hall
 - [ ] Temperature
 
-## Other Stuff
+## UEFI
+- [ ] Mass Storage (Unknown Issues)
+
+# Other Stuff
 
 - [X] Me working on drivers (gonna take forever)
