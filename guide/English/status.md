@@ -24,7 +24,7 @@ UNSTABLE YET!!! Drivers coming soon, be patient
 - [X] USB (Device Mode)
 - [X] USB (Power Delivery)
 - [X] Windows Boot
-- ❔ Linux Boot
+❔ Linux Boot
 
 # Stuff That Doesn't Work
 
