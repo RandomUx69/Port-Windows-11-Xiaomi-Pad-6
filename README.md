@@ -76,29 +76,14 @@
 
 - [**`🔀Dualboot setup`**](guide/English/dualboot-selection2-en.md)
 
-- [**`🔧Troubleshooting`**](guide/English/troubleshooting-en.md)
-
-- [**`🔄Updating drivers / UEFI`**](guide/English/update-en.md)
-
-- [**`♻️Reinstallation`**](guide/English/reinstall-en.md)
-
-- [**`📱Re-rooting Android`**](guide/English/Re-rooting-en.md)
-
-- [**`💾Resizing Windows partition`**](guide/English/resize-en.md)
-
-- [**`📂Useful apps and instructions`**](guide/English/Additional-materials-en.md)
-
-- [**`🔧Fix GPT to Use Windows 24H2 and newer`**](guide/English/fix-gpt-en.md)
-
-- [**`🧱Restoring the Device in EDL Mode`**](guide/English/edl.md)
-
 
 
 ## Contributors
->6adp, 
->me, 
->Mu Silicium UEFI team, they really are awesome for making this project possible, 
->cmz6996 (XDA).
+-6adp, 
+-me, 
+-Mu Silicium UEFI team, they really are awesome for making this project possible, 
+-cmz6996 (XDA).
+
 
 
 
