@@ -1,18 +1,18 @@
-<img align="right" src="https://raw.githubusercontent.com/erdilS/Port-Windows-11-Xiaomi-Pad-5/main/nabu.png" width="425" alt="Windows 11 Running On A Xiaomi Pad 5">
+<img align="right" src="https://raw.githubusercontent.com/RandomUx69/Port-Windows-11-Xiaomi-Pad-6/refs/heads/main/Xiaomi-Pad-6.png" width="425" alt="Windows 11 Running On A Xiaomi Pad 6">
 
-# Running Windows on the Xiaomi Pad 5
+# Running Windows on the Xiaomi Pad 6
 
-## Unlocking the Bootloader: A Step-by-Step Guide for HyperOS/MIUI
+## Unlocking the Bootloader: A Step-by-Step Guide for HyperOS
 
 ### Prerequisites
 - [`📲 Mi Community App(only for HyperOS/MIUI 14)`](https://apkpure.net/xiaomi-community/com.mi.global.bbs/download).
 
 - [`🔧 Mi Unlock Tool`](https://miuirom.xiaomi.com/rom/u1106245679/7.6.727.43/miflash_unlock_en_7.6.727.43.zip).
 
-- [`🛠️ HyperSploit (bypass method)`](https://github.com/TheAirBlow/HyperSploit/releases/latest/download/HyperSploit-Windows.exe).
+- [`🛠️ HyperSploit (bypass method for HyperOS 1.X.X.X ex. 1.0.6.0)`](https://github.com/TheAirBlow/HyperSploit/releases/latest/download/HyperSploit-Windows.exe).
 
 > [!WARNING]
->
+> If you are running HyperOS 2, wait 30 days to unlock with Mi Community, no way to bypass if you are on HyperOS 2. If you are on HyperOS 1, use Hypersploit.
 > Backup Data: Unlocking the bootloader will erase all data on your device. Make sure to back up important data before proceeding.
 
 ### Enable developer options
@@ -20,22 +20,18 @@
   - Go to **Settings → My device → Detailed info and specs → OS version**.
   - Tap the OS version multiple times until developer options are enabled (you will see a popup message).
 
-- **For MIUI:**
-  - Go to **Settings → About phone → MIUI version**.
-  - Tap the MIUI version multiple times until developer options are enabled (you will see a popup message).
-
 ### Enable OEM Unlocking and USB Debugging
 - Go to **Settings → Additional settings → Developer options**.
 - Enable **OEM unlocking** and **USB debugging**.
 
-### 🔓New method (For HyperOS/MIUI 14):
+### 🔓New method (For HyperOS):
 <details>
   <summary><strong>Click to open</strong></summary>
 
 ---
 
   <details>
-   <summary><strong>Method 1: Using HyperSploit Bypass (Recommended) </strong></summary>
+   <summary><strong>Method 1 (ONLY FOR HYPEROS 1): Using Hypersploit Bypass (Recommended) </strong></summary>
 
 **This method will Bypass the daily quota limit while appling in the Mi Community app.**
 
