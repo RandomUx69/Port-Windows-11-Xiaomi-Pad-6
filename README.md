@@ -11,6 +11,7 @@
 > [!NOTE]
 > - We're not responsible for bricked devices, missing recovery partitions, dead xiaomi factoryline ~workers~ cowboys, dead pmics, dead ram, dead display ics, dead cpus, any xiaomi shenanigans, dead cats or dogs, nuclear wars or you getting fired because you forgot to boot back into android for the alarm (use Windows Alarms app).
 > - This project is in late stages of development, and this has all credits going STRAIGHT to erdilS for making this awesome project, all the files here have been contributed by other users, here you will find a guide with the working files we managed to get. This is a delicate process, do it under your own risk and follow all the steps carefully.
+> - NO DRIVERS YET! VERY UNSTABLE PROJECT! DRIVERS ARE WIP (Work In Progress), AND ARE NOT TO BE COMING TILL THE NEXT MONTH OR TWO.
 
 > [!WARNING]
 > **If you're not comfortable with modding your tablet or its partition table, or worried about bricking your device, it's okay to take a step back. But the process is simple, so even beginners can handle it. Just follow the instructions carefully, and you should be fine.**
@@ -83,6 +84,7 @@
 -me, 
 -Mu Silicium UEFI team, they really are awesome for making this project possible, 
 -cmz6996 (XDA).
+
 
 
 
