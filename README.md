@@ -4,7 +4,7 @@
 
 [![Telegram](https://img.shields.io/badge/Chat-Telegram-brightgreen.svg?logo=telegram&style=flat-square)](https://t.me/nabuwoa)
 
-## ⚠️ Warning
+## ⚠️ WARNING ⚠️
 > [!NOTE]
 > - We're not responsible for bricked devices, missing recovery partitions, dead xiaomi factoryline ~workers~ cowboys, dead pmics, dead ram, dead display ics, dead cpus, any xiaomi shenanigans, dead cats or dogs, nuclear wars or you getting fired because you forgot to boot back into android for the alarm (use Windows Alarms app).
 > - This project is in late stages of development, and this has all credits going STRAIGHT to erdilS for making this awesome project, all the files here have been contributed by other users, here you will find a guide with the working files we managed to get. This is a delicate process, do it under your own risk and follow all the steps carefully.
@@ -81,6 +81,7 @@
 -me, 
 -Mu Silicium UEFI team, they really are awesome for making this project possible, 
 -cmz6996 (XDA).
+
 
 
 
