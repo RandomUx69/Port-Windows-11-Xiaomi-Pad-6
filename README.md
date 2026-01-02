@@ -5,7 +5,7 @@
 [![Telegram](https://img.shields.io/badge/Chat-Telegram-brightgreen.svg?logo=telegram&style=flat-square)](https://t.me/nabuwoa)
 
 ## Language 
-[```Русский```](/guide/Russian/README-RU.md) | **```English```** | [```Tiếng Việt```](/guide/Vietnamese/README-vi.md) | [```Ukrainian```](/guide/Ukrainian/README-uk.md) | [```한국어```](/guide/Korean/README-KO.md)
+| **```English```**
 
 ## ⚠️ Warning
 > [!NOTE]
@@ -84,6 +84,7 @@
 -me, 
 -Mu Silicium UEFI team, they really are awesome for making this project possible, 
 -cmz6996 (XDA).
+
 
 
 
