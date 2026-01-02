@@ -10,4 +10,4 @@ In some extremely rare cases, your screen may display white lines after putting 
 
 If you see white lines after sleeping in Windows, **REBOOT IMMEDIATELY!!**. These lines can become permanent if they stay on the screen for too long.
 
-Currently the only solution is to either never put your device to sleep in Windows, or to sell your nabu and buy a new one.
+Currently the only solution is to either never put your device to sleep in Windows, or to sell your Pad 6 and buy a new one.
