@@ -1,6 +1,6 @@
-<img align="right" src="https://raw.githubusercontent.com/erdilS/Port-Windows-11-Xiaomi-Pad-5/main/nabu.png" width="425" alt="Windows 11 Running On A Xiaomi Pad 5">
+<img align="right" src="https://raw.githubusercontent.com/RandomUx69/Port-Windows-11-Xiaomi-Pad-6/refs/heads/main/Xiaomi-Pad-6.png" width="425" alt="Windows 11 Running On A Xiaomi Pad 6">
 
-# Running Windows on the Xiaomi Pad 5
+# Running Windows on the Xiaomi Pad 6
 
 ## Rooting your tablet
 > [!NOTE]
@@ -29,7 +29,7 @@ adb reboot
 - Open the **Magisk** app and follow the instructions on the screen, and your device should reboot after a few seconds.
 
 ### Back up your rooted boot.img
-> Reboot into the modified recovery image, then run the below command
+> Reboot into the TWRP recovery image, then run the below command
 ```cmd
 adb shell "dd if=/dev/block/platform/soc/1d84000.ufshc/by-name/boot$(getprop ro.boot.slot_suffix) of=/tmp/rooted_boot.img" && adb pull /tmp/rooted_boot.img
 ```
