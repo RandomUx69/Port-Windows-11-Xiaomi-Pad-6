@@ -4,9 +4,6 @@
 
 [![Telegram](https://img.shields.io/badge/Chat-Telegram-brightgreen.svg?logo=telegram&style=flat-square)](https://t.me/nabuwoa)
 
-## Language 
-| **```English```**
-
 ## ⚠️ Warning
 > [!NOTE]
 > - We're not responsible for bricked devices, missing recovery partitions, dead xiaomi factoryline ~workers~ cowboys, dead pmics, dead ram, dead display ics, dead cpus, any xiaomi shenanigans, dead cats or dogs, nuclear wars or you getting fired because you forgot to boot back into android for the alarm (use Windows Alarms app).
@@ -84,6 +81,7 @@
 -me, 
 -Mu Silicium UEFI team, they really are awesome for making this project possible, 
 -cmz6996 (XDA).
+
 
 
 
