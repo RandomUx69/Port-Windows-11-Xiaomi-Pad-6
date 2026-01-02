@@ -1,13 +1,13 @@
-<img align="right" src="https://raw.githubusercontent.com/erdilS/Port-Windows-11-Xiaomi-Pad-5/main/nabu.png" width="425" alt="Windows 11 Running On A Xiaomi Pad 5">
+<img align="right" src="https://github.com/RandomUx69/Port-Windows-11-Xiaomi-Pad-6/releases/tag/UEFI" width="425" alt="Windows 11 Running On A Xiaomi Pad 6">
 
-# Running Windows on the Xiaomi Pad 5
+# Running Windows on the Xiaomi Pad 6
 
 ## Dualboot guide
 
 ### Prerequisites
 - [```Magisk```](https://github.com/topjohnwu/Magisk/releases/latest)
 
-- [```UEFI image```](https://github.com/erdilS/Port-Windows-11-Xiaomi-Pad-5/releases/tag/UEFI)
+- [```UEFI image```](https://github.com/RandomUx69/Port-Windows-11-Xiaomi-Pad-6/releases/tag/UEFI)
 
 - [```WoA Helper app```](https://github.com/n00b69/woa-helper/releases/tag/APK)
 
