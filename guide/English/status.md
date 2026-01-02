@@ -49,7 +49,7 @@ UNSTABLE YET!!! Drivers coming soon, be patient
 
 ## UEFI
 - [ ] Mass Storage (Unknown Issues)
-- [ ] Linux Boot (UEFI made for Windows, obviously :|)
+- [ ] Linux Boot (UEFI made for Windows, obviously :| )
 
 # Other Stuff
 
