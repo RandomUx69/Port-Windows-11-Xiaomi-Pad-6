@@ -4,40 +4,15 @@
 
 ## Project Status
 
-Stable. Almost everything works except for a few components.
+-Ima put just things that work
 
-#### 📱 Components
-
-- [X] Audio
-- [X] Battery status
-- [X] Bluetooth
-- [X] Brightness
-- [ ] Camera
-- [ ] Flashlight
-- [x] Charging
-- [ ] Fast charging
+- [X] Internal Storage
+- [X] Side Buttons
+- [X] Battery
+- [X] USB (Device Mode)
+- [X] CPU
 - [X] Display
-- [X] GPU
-- [X] Touchscreen
-- [X] Microphone
-- [X] Miracast
-- [X] Location
-- [X] Smart Case Mode
-- [X] Sleep Mode
-- [X] UFS
-- [X] USB
-- [X] Wi-Fi
 
-### ⌨️ Accessories
-- [X] Xiaomi Pen
-- [ ] Xiaomi Pen Charging
-- [X] [Other pens](https://t.me/nabuwoa/342769) 
-- [X] Xiaomi Keyboard
+## Other Stuff
 
-#### 🧭 Sensors
-
-- [X] Accelerometer
-- [X] Gyroscope
-- [ ] Light sensor (no available anymore) 
-- [X] Magnetometer
-- [X] Proximity
+- [X] Me working on drivers (gonna take forever)
